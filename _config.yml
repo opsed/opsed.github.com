@@ -2,5 +2,5 @@ auto: true
 server: true
 exclude: README.md, .gitignore
 permalink: none
-baseurl: 
+baseurl: http://opsed.github.com
 url: http://opsed.github.com
