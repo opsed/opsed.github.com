@@ -1,0 +1,6 @@
+auto: true
+server: true
+exclude: README.md, .gitignore
+permalink: none
+baseurl: 
+url: http://opsed.github.com
