@@ -1,7 +1,6 @@
 ---
 layout: default
-title: OpSED!
-rss: /blog.rss
+title: OpSED
 ---
 ### Welcome to GitHub Pages.
 
