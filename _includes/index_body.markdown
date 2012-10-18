@@ -8,9 +8,9 @@ By publishing these works freely and without restriction, we hope to provide ope
 
 ### Sounds Great, What's Next?
 
-Some quick destinations on the site:
-
-* [OpSED Community Library](https://github.com/opsed/opsed.github.com/wiki) - Get involved, ask a question, or otherwise be part of the OpSED community
-* [ESI Data Set]() - Download the latest version of the data set here!
+Some OpSED resources:
+* [OpSED Mailing List](https://groups.google.com/forum/#!forum/opsed) - Get involved, ask a question, or otherwise be part of the OpSED community
+* [OpSED Community Library](https://github.com/opsed/opsed.github.com/wiki) - Have knowledge to share, or looking for knowledge? This is the place.
 * [ESI Data Model](https://github.com/opsed/esi-data-model) - Download the latest version of the data model resource package here!
 * [ESI Data Access Protocol](https://github.com/opsed/esi-data-access-protocol) - Find out all the details about the EDAP protocol, and download a specification or a reference implementation.
+* [ESI Data Set]() - *COMING SOON: Download the latest version of the data set here!*
